@@ -3,9 +3,6 @@ Hi My name is Emirhan
 
 Web Developer
 -------------
-
-I have been trying to specialize in html css and bootstrap.
-
 *     I'm based in Izmir
 *     I'm learning Javascript
 *     I'm open to collaborating on Projects
