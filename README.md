@@ -4,7 +4,7 @@ Hi My name is Emirhan
 Web Developer
 -------------
 
-I have been trying to specialize in html css and bootstrap for 6 Months now. I think I've learned enough to call myself a front-end developer.
+I have been trying to specialize in html css and bootstrap.
 
 *     I'm based in Izmir
 *     I'm learning Javascript
